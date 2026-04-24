@@ -1,7 +1,7 @@
 {
-  "schema_version": 1,
+  "schema_version": 1.0.999,
   "app_version": "26.4.17",
-  "updated_at": "2026-04-23T00:00:00Z",
+  "updated_at": "2026-04-24T 17:00:00Z",
   "description": "澎湃记内置默认识别规则",
 
   "brands": {
