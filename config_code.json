@@ -29,7 +29,7 @@
       { "name": "快乐柠檬", "category": "饮品" },
       { "name": "7分甜", "category": "饮品" },
       { "name": "一只酸奶牛", "category": "饮品" },
-      { "name": "茶颜悦色", "category": "饮品" },
+      { "name": "茶颜悦色", "category": "饮品" }
     ],
     "food": [
       { "name": "麦当劳", "aliases": ["MCDONALDS"], "category": "餐食", "package_name": "com.mcdonalds.gma.cn", "scoring_overrides": { "length_gte_4_with_letter_multiplier": 20, "length_5_digit_multiplier": 5 } },
