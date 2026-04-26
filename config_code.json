@@ -13,7 +13,7 @@
       { "name": "幸运咖", "category": "饮品" },
       { "name": "蜜雪冰城", "category": "饮品", "package_name": "com.mxbc.mxsa" },
       { "name": "古茗", "category": "饮品", "keywords": ["葫芦"], "scoring_overrides": { "exact_match_weight": 15 } },
-      { "name": "茶百道", "category": "饮品" "keywords": ["熊猫币","熊猫值"] },
+      { "name": "茶百道", "category": "饮品", "keywords": ["熊猫币", "熊猫值"] },
       { "name": "沪上阿姨", "category": "饮品" },
       { "name": "甜啦啦", "category": "饮品" },
       { "name": "霸王茶姬", "category": "饮品" },
